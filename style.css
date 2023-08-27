@@ -114,26 +114,26 @@
 }
 
 .Summary .text1-react {
-    padding-right: 70px;
+    padding-right: 110px;
     color: hsl(0, 100%, 67%);
     font-size: 17px;
     
 }
 
 .Summary .text1-memo {
-    padding-right: 70px;
+    padding-right: 110px;
     color: hsl(39, 100%, 56%);
     font-size: 17px;
 }
 
 .Summary .text1-verb {
-    padding-right: 90px;
+    padding-right: 130px;
     color: hsl(166, 100%, 37%);
     font-size: 17px;
 }
 
 .Summary .text1-vis {
-    padding-right: 90px;
+    padding-right: 130px;
     color: hsl(224, 30%, 27%);
     font-size: 17px;
 }
